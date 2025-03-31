@@ -19,7 +19,7 @@ Clone this repository:
 
 1. **Clone the repository:**  
    ```bash
-   git clone https://github.com/your-username/brickbreaker.git
+   https://github.com/Hawshil/brickBreaker.git
    cd brickbreaker
    
 2. **Compile the program:**  

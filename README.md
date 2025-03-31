@@ -38,9 +38,10 @@ Clone this repository:
 - Spacebar – Start game / Restart after game over
 
 ## 📷 Screenshots
+![Screenshot 2025-03-31 091215](https://github.com/user-attachments/assets/87bfb68a-8093-4bca-b85f-2e514c0a5231)
 ![Screenshot 2025-03-31 091251](https://github.com/user-attachments/assets/5be1cac8-b7dc-46d6-90a5-bbdecc7d2eec)
 ![Screenshot 2025-03-31 091301](https://github.com/user-attachments/assets/045e9218-726a-4f32-a2f6-aa44526ef23d)
-![Screenshot 2025-03-31 091215](https://github.com/user-attachments/assets/87bfb68a-8093-4bca-b85f-2e514c0a5231)
+
 
 ## 📝 To-Do List
 
